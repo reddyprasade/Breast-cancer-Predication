@@ -15,3 +15,5 @@ A Machine learning algorithm trained on a linked data set of mammograms and elec
 
 **Background**
 Computational models on the basis of deep neural networks are increasingly used to analyze health care data. However, the efficacy of traditional computational models in radiology is a matter of debate.
+
+![](https://lh3.googleusercontent.com/-yTbx3EPq2bA/XoMhSL9KePI/AAAAAAAAnlw/sb4_VqBigX0CeUiojIDAr0zihrwZp9FNQCK8BGAsYHg/s0/2020-03-31.png)
