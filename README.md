@@ -13,7 +13,6 @@ Rather than manually identifying the patterns in a mammogram that drive future c
 
 A Machine learning algorithm trained on a linked data set of mammograms and electronic health records achieved breast cancer detection accuracy comparable to radiologists as defined by the Breast Cancer Surveillance Consortium benchmark for screening digital mammography and revealed additional clinical risk features.
 
-**Background**
-Computational models on the basis of deep neural networks are increasingly used to analyze health care data. However, the efficacy of traditional computational models in radiology is a matter of debate.
+**Datasets** ![Datasets](https://github.com/reddyprasade/Machine-Learning-Problems-DataSets/blob/master/Classification/Breast%20cancer%20data.csv)
 
-![](https://lh3.googleusercontent.com/-yTbx3EPq2bA/XoMhSL9KePI/AAAAAAAAnlw/sb4_VqBigX0CeUiojIDAr0zihrwZp9FNQCK8BGAsYHg/s0/2020-03-31.png)
+[](https://lh3.googleusercontent.com/-yTbx3EPq2bA/XoMhSL9KePI/AAAAAAAAnlw/sb4_VqBigX0CeUiojIDAr0zihrwZp9FNQCK8BGAsYHg/s0/2020-03-31.png)
